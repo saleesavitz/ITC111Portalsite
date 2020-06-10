@@ -1,5 +1,5 @@
 .main {
-    background-color: rgb(187, 186, 186);
+    background-color: rgb(174, 228, 216);
     margin:0 auto;
     width: max-content;
     padding: 2px 2px auto;
@@ -14,12 +14,12 @@
     margin: 1px 0;
     text-align: right;
     font-size: 18px;
-    color: red;
+    color:  rgb(159, 240, 236);
     width: 270px;
     height: 18px;
 }
 #display2 {
-    background-color: azure;
+    background-color:  rgb(128, 187, 104);
     margin: 0 2px auto;
     text-align: right;
     font-size: xx-large;
@@ -27,7 +27,7 @@
     height: 40px;
 }
 button {
-    background-color: white;
+    background-color: rgb(41, 168, 109);
     font-size: x-large;
     width: 70px;
     height: 70px;
@@ -37,5 +37,5 @@ button:hover {
     background-color: rgb(165, 214, 247);
 }
 button:active {
-    background-color: rgb(56, 221, 152);
+    background-color: rgb(46, 26, 136);
 }
